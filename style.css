@@ -10,8 +10,12 @@ body {
         color: #4aaaa5;
     }    
     
-    .container-fluid {
+    .navbar-fluid {
         border-bottom: 2px solid #ccc;
+    }
+
+    .container-fluid {
+        margin-left: 25px;
     }
     
 
@@ -21,7 +25,7 @@ body {
         font-size: 28px;
         font-weight: 700;
         line-height: 90px;
-        color: aliceblue;
+        color: #ffffff;
         text-align: center;
         text-decoration: none;
         background: #4aaaa5;
